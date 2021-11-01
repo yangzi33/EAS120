@@ -125,14 +125,6 @@
 
 ## Numbers
 
-▲
-Markdown Table Formatter
-This tool formats basic MultiMarkdown style tables for easier plain text reading. It adds padding to all the cells to line up the pipe separators when using a mono-space font.
-
-To see what it's all about, try one of these examples, or format your own.
-
-Load: Example 1 - Example 2 - Example 3
-
 | ひゃく |        | せん   |       | まん    |      |
 |-----|--------|------|-:-----|-------|------|
 | 100 | ひゃく    | 1000 | 1000  | 10000 | いちまん |
@@ -163,6 +155,55 @@ Load: Example 1 - Example 2 - Example 3
 14. ええ: yes
 
 # Lesson 4
+
+1. アルバイト: part-time job
+2. つくえ　机: desk
+3. レポート: report
+4. おてら　お寺: temple
+5. こうえん: park
+6. バスてい　バス停: bus stop
+7. びょういん: hospital
+8. 本屋: bookstore
+9. きのう: yesterday
+10. じかん　時間: hours
+11. せんしゅう　先週: last week
+
+##  U-Verbs
+
+1. あう: to meet (person に)
+2. ある: there is (place に thing が)
+3. かう　買う: to buy
+4. かく　書く: to write
+5. とる　撮る: to take (a picture)
+6. まつ　待つ: to wait
+7. わかる: to understand (〜が)
+
+## Ru-Verb
+
+1. いる
+
+## Adverbs
+
+1. 〜ぐらい: about
+2. それから: and then
+3. だらか: so; therefore
+4. たくさん: a lot
+5. 〜と
+6. どうして: why
+7. 一人で: alone
+
+## Location Verbs
+
+1. みぎ　右
+2. ひだり　左
+3. まえ　前
+4. うしろ　後ろ
+5. なか　中
+6. うえ　上
+7. した　下
+8. ちかく　近く
+9. となり　隣 (next)
+10. あいだ　間 （AとBの）
 
 
 
